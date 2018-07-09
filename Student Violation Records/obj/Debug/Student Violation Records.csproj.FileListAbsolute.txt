@@ -1,0 +1,85 @@
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.exe
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Debug\MaterialSkin.dll
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.exe
+c:\users\dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.pdb
+C:\Users\Dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.frmMenu2.resources
+C:\Users\Dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\Dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\Dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.exe
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\bin\Debug\Student Violation Records.pdb
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\bin\Debug\MaterialSkin.dll
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.frmMenu2.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.exe
+C:\Users\Jhontrix\Desktop\Student Violation Records\Student Violation Records\obj\Debug\Student Violation Records.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\bin\Debug\Student Violation Records.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\bin\Debug\Student Violation Records.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.frmMenu2.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student Violation Records.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\SVR\Student Violation Records\obj\Debug\Student Violation Records.pdb
+C:\Users\James\Documents\SVR\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+C:\Users\James\Documents\SVR\Student Violation Records\bin\Debug\Student Violation Records.exe
+C:\Users\James\Documents\SVR\Student Violation Records\bin\Debug\Student Violation Records.pdb
+C:\Users\James\Documents\SVR\Student Violation Records\bin\Debug\MaterialSkin.dll
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.frmMenu2.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student Violation Records.exe
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student Violation Records.pdb
+C:\Users\James\Documents\SVR\Student Violation Records\obj\Debug\Student_Violation_Records.ForgotPassword.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+C:\Users\James\Documents\SVRS\Student Violation Records\bin\Debug\Student Violation Records.exe
+C:\Users\James\Documents\SVRS\Student Violation Records\bin\Debug\Student Violation Records.pdb
+C:\Users\James\Documents\SVRS\Student Violation Records\bin\Debug\MaterialSkin.dll
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ForgotPassword.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student Violation Records.exe
+C:\Users\James\Documents\SVRS\Student Violation Records\obj\Debug\Student Violation Records.pdb
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\bin\Debug\Student Violation Records.exe.config
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\bin\Debug\Student Violation Records.exe
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\bin\Debug\Student Violation Records.pdb
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\bin\Debug\MaterialSkin.dll
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student Violation Records.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ForgotPassword.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.frmLogin.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.Main.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.Properties.Resources.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ReportGeneral.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student_Violation_Records.ReportStudent.resources
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student Violation Records.exe
+C:\Users\James\Downloads\SVRS\SVRS\Student Violation Records\obj\Debug\Student Violation Records.pdb

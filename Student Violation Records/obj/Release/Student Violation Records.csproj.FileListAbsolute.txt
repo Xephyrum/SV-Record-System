@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Release\Student Violation Records.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Release\Student Violation Records.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Release\Student Violation Records.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\bin\Release\MaterialSkin.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student_Violation_Records.frmLogin.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student_Violation_Records.Menu.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student_Violation_Records.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student Violation Records.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student Violation Records.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student Violation Records.pdb
+C:\Users\Dell\documents\visual studio 2017\Projects\Student Violation Records\Student Violation Records\obj\Release\Student Violation Records.csprojResolveAssemblyReference.cache
